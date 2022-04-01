@@ -35,6 +35,7 @@ const nonBuiltInLanguages = { // { fileNames, extensions  }
 	"rescript": { extensions: ['res', 'resi'] },
 	"sass": { extensions: ['sass'] },
 	"stylus": { extensions: ['styl'] },
+	"stalf": { extensions: ['stf', 'lsdot', 'lsdotscript'] },
 	"terraform": { extensions: ['tf', 'tfvars', 'hcl'] },
 	"todo": { fileNames: ['todo'] },
 	"vala": { extensions: ['vala'] },
